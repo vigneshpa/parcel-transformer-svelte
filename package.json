@@ -1,0 +1,28 @@
+{
+  "name": "parcel-transformer-svelte",
+  "version": "0.1.0",
+  "type": "commonjs",
+  "description": "import .svelte files",
+  "author": "Vignesh <vignesh-p@outlook.com>",
+  "main": "index.cjs",
+  "engines": {
+    "parcel": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshpa/parcel-transformer-svelte.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vigneshpa/parcel-transformer-svelte/issues"
+  },
+  "homepage": "https://github.com/vigneshpa/parcel-transformer-svelte#readme",
+  "license": "MIT",
+  "peerDependencies": {
+    "@parcel/plugin": "^2.6.2",
+    "@parcel/utils": "^2.6.2",
+    "@parcel/source-map": "^2.0.0",
+    "svelte": "^3.48.0",
+    "svelte-preprocess": "^4.10.7",
+    "svelte-hmr": "^0.14.12"
+  }
+}
