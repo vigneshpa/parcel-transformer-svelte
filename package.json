@@ -1,5 +1,5 @@
 {
-  "name": "parcel-transformer-svelte",
+  "name": "@vigneshpa/parcel-transformer-svelte",
   "version": "0.1.0",
   "type": "commonjs",
   "description": "import .svelte files",
